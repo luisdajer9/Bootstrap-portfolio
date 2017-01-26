@@ -1,0 +1,45 @@
+.container {
+    background-image: url(assets/images/cork-wallet.png);
+    width: 100%;
+}
+
+img {
+    width: 150px;
+    display: inline-block;
+}
+
+figure {
+    width: 150px;
+    display: inline-block;
+}
+
+figcaption {
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    background-color: #4aaaa5;
+    color: white;
+}
+
+.connect-image {
+    width: 100px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+.col-md-4 {
+    padding: 15px;
+}
+
+#nametag {
+    text-align: center;
+}
