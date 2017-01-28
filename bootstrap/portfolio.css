@@ -1,6 +1,6 @@
 .container {
-    background-image: url(assets/images/cork-wallet.png);
     width: 100%;
+    float: left;
 }
 
 img {
@@ -23,6 +23,8 @@ figcaption {
 
 .connect-image {
     width: 100px;
+    position: relative;
+    left: 150px;
 }
 
 footer {
@@ -30,6 +32,9 @@ footer {
     text-align: center;
     padding: 20px;
     background-color: black;
+    border-top: solid;
+    border-color: blue;
+    border-width: 5px;
 }
 
 h2 {
@@ -42,4 +47,9 @@ h2 {
 
 #nametag {
     text-align: center;
+}
+
+#imagecolumn {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
